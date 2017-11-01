@@ -5,5 +5,13 @@
  *
  */
 public class LargestSumContiguousSubarray {
+   public static void main(String[] args) {
+   }
    
+   public static int[] largestSumContiguousSubarray(int[] input) {
+      // TODO implementation
+      
+      // Below is placeholder return statement.
+      return new int[1];
+   }
 }
