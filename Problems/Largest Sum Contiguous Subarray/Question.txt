@@ -10,3 +10,10 @@ integer (negative, zero, and positive).
 
 Output: int[] - A subarray of integers that are the largest sum of elements from
 the given input.
+
+========= Advanced option ==========
+Find the time-complexity (Big-O) of your solution. Can you make it more optimized?
+If you can, try to find that solution.
+
+* Hint: Most optimal solution produces O(n).
+====================================
